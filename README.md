@@ -20,3 +20,6 @@ This is a simple, stylish portfolio website designed to showcase projects, about
 placehold.co
 example.com
 nordtheme.com
+
+## Disclaimer
+Artificial intelligence was used to make the website responsive on all devices.
